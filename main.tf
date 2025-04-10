@@ -9,7 +9,8 @@ terraform {
 }
 
 provider "docker" {
-  # Configuration options (usually defaults work for local Docker)
+  host = "npipe:////./pipe/docker_engine" # Default Docker named pipe on Windows
+
 }
 
 # Pull the latest nginx image
