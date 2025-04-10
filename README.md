@@ -19,6 +19,7 @@ This project demonstrates how to use Terraform to:
 - Maintain infrastructure state
 
 Key benefits:
+
 ✅ Reproducible infrastructure  
 ✅ Version-controlled configuration  
 ✅ Automated provisioning  
