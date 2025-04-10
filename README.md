@@ -9,15 +9,6 @@ A practical guide to provisioning Docker containers using Terraform, demonstrati
 - [Introduction](#introduction)
 - [Prerequisites](#prerequisites)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Understanding the Configuration](#understanding-the-configuration)
-- [State Management](#state-management)
-- [Cleanup](#cleanup)
-- [Best Practices](#best-practices)
-- [Extending This Project](#extending-this-project)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
